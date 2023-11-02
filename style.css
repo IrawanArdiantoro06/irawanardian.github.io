@@ -1,6 +1,9 @@
 .jumbotron{
-    padding-top:90px;
     background-color: #caf0f8;
+    /* background-image: url(assets/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
 }
 
 #project{
@@ -9,4 +12,16 @@
 
 section{
     padding-top: 5rem;
+}
+
+.gallery-img{
+    width: 100%;
+}
+
+#gallery .row > *{
+    padding: 0;
+}
+
+#navbar-css a:hover{
+    color: rgb(62, 13, 99) ;
 }
