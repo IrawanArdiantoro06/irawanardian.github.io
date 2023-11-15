@@ -1,27 +1,37 @@
-.jumbotron{
-    background-color: #caf0f8;
-    /* background-image: url(assets/bg3.jpg);
+.jumbotron {
+  background-color: #caf0f8;
+  /* background-image: url(assets/bg3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
 }
 
-#project{
-    background-color: #caf0f8;
+#project {
+  background-color: #caf0f8;
 }
 
-section{
-    padding-top: 5rem;
+section {
+  padding-top: 5rem;
 }
 
-.gallery-img{
-    width: 100%;
+.gallery-img {
+  width: 100%;
 }
 
-#gallery .row > *{
-    padding: 0;
+#gallery .row > * {
+  padding: 0;
 }
 
-#navbar-css a:hover{
-    color: rgb(62, 13, 99) ;
+#navbar-css a:hover {
+  color: rgb(62, 13, 99);
+}
+
+.projectSatu {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.projectSatu:hover {
+  color: #0076b6;
 }
